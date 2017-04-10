@@ -1,2 +1,2 @@
 # OTM1617
-Ohjelmistotekniikan menetelmät
+Ohjelmistotekniikan menetelmät / Software engineering methods 
