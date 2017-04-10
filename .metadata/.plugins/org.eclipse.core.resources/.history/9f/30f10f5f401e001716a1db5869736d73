@@ -1,0 +1,22 @@
+
+public class Dog {
+	private String name;
+	private int age;
+	
+	public Dog(String name, int age){
+		this.name = name;
+		this.age = age;
+	}
+	
+	public String toString(){
+		return "Dog named " + name + " is " + age + " years old.";
+	}
+	
+	public void eat(){
+		System.out.println("Nom nom nom... *dog eats*");
+	}
+	
+	public void drink(){
+		System.out.println("Lap lap lap... *dog drinks*");
+	}
+}

@@ -1,0 +1,9 @@
+
+public class Dog {
+	private String name;
+	private int age;
+	
+	public String toString(){
+		return "Dog named " + name + " is " + age + " years old.";
+	}
+}

@@ -1,0 +1,26 @@
+
+public class Cat {
+	private String name;
+	private int age;
+	
+	public Cat(String name, int age){
+		this.name = name;
+		this.age = age;
+	}
+	
+	public String toString(){
+		return "Cat named " + name + " is " + age + " years old.";
+	}
+	
+	public void meow(){
+		System.out.println("Meow!");
+	}
+	
+	public void hiss(){
+		System.out.println("Hiss!");
+	}
+	
+	public void purr(){
+		System.out.println("Purrrrr... :3");
+	}
+}

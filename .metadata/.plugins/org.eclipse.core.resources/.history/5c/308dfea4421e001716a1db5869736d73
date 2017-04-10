@@ -1,0 +1,27 @@
+import java.awt.Color;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		Cat felix = new Cat("Felix", 5);
+		felix.setEyes(Color.GREEN);
+		felix.setFur(Color.ORANGE);
+		
+		Dog otto = new Dog("Otto", 2);
+		otto.setEyes(Color.BLUE);
+		otto.setFur(Color.BLACK);
+		
+		felix.sleep();
+		otto.bark();
+		felix.hiss();
+		otto.wag();
+		felix.meow();
+		otto.sleep();
+		felix.drink();
+		otto.eat();
+		felix.eat();
+		otto.drink();
+	}
+
+}
