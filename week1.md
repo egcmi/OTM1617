@@ -1,3 +1,5 @@
+## Week 1
+
 ### 1.
 A class is the abstract representation of a generic thing in the real world.
 They are templates for creating objects. They define the structure and behaviour of the objects that belong to them.
