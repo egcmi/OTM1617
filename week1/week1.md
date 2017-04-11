@@ -12,10 +12,10 @@ A method is one of the possible behaviours of an object.
 In other words a method is an action, a function or a procedure an object can perform.
 
 ### 2 and 3.
-Check out code in [/week1/src](https://github.com/egcmi/OTM1617/tree/master/week1/src)
+Code in [/week1/src](https://github.com/egcmi/OTM1617/tree/master/week1/src)
 
 ### 4.
-Check out:
+Diagram at [/week1/diagram.bmp](https://raw.githubusercontent.com/egcmi/OTM1617/master/week1/diagram.bmp)
 
 ### 5.
  - Student
